@@ -1,0 +1,1502 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"data_view",
+				"data_viewer_show_btn"
+			],
+			[
+				"shinya",
+				"shinyactionbutton	The action button for Shiny"
+			],
+			[
+				"show",
+				"showshinyalert"
+			],
+			[
+				"shiny",
+				"shinynumericinput	Shiny Numeric Input"
+			],
+			[
+				"send",
+				"sendCustomMessage"
+			],
+			[
+				"shinyal",
+				"shinyalert	Shiny Alert"
+			],
+			[
+				"Impo",
+				"Importing"
+			],
+			[
+				"new",
+				"newConn"
+			],
+			[
+				"hold",
+				"holdout_ratio"
+			],
+			[
+				"ho",
+				"holdout_ratio"
+			],
+			[
+				"datasam",
+				"datasample_overall"
+			],
+			[
+				"proje",
+				"project_v"
+			],
+			[
+				"foder",
+				"folder_select"
+			],
+			[
+				"delete",
+				"deleteProject"
+			],
+			[
+				"shinyalert",
+				"showshinyalert"
+			],
+			[
+				"proj",
+				"project_name"
+			],
+			[
+				"project",
+				"project_selected"
+			],
+			[
+				"bad_out",
+				"bad_outcome.name"
+			],
+			[
+				"paste",
+				"paste0"
+			],
+			[
+				"folder",
+				"folder_select"
+			],
+			[
+				"shinytex",
+				"shinytextinput	Shiny Text Input"
+			],
+			[
+				"mdl",
+				"mdl_score"
+			],
+			[
+				"col",
+				"columns"
+			],
+			[
+				"selected",
+				"selected_var"
+			],
+			[
+				"good_bad",
+				"good_bad_var_tbl"
+			],
+			[
+				"view",
+				"viewingModel"
+			],
+			[
+				"table",
+				"table_exists"
+			],
+			[
+				"varR",
+				"varRules_definite"
+			],
+			[
+				"scr",
+				"script	Tag"
+			],
+			[
+				"type",
+				"typeahead2"
+			],
+			[
+				"typ",
+				"typehead"
+			],
+			[
+				"Auto",
+				"myAutocompleteRenderer"
+			],
+			[
+				"bm",
+				"buildMoreModelButton"
+			],
+			[
+				"build",
+				"buildMoreModelButton"
+			],
+			[
+				"slick",
+				"slickgrid"
+			],
+			[
+				"shin",
+				"shinyalert"
+			],
+			[
+				"dro",
+				"dropdown"
+			],
+			[
+				"obj",
+				"obj_of_arr"
+			],
+			[
+				"sho",
+				"showShinyAlert"
+			],
+			[
+				"binning",
+				"binning_results"
+			],
+			[
+				"combin",
+				"combine_rows"
+			],
+			[
+				"imp",
+				"importDataAlert"
+			],
+			[
+				"import",
+				"importDataButton"
+			],
+			[
+				"nihao",
+				"nihaoma1"
+			],
+			[
+				"bini",
+				"binning_results"
+			],
+			[
+				"nia",
+				"nihaoma1"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"wrap",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"mat",
+				"Emmet: Match Pair (inward)"
+			],
+			[
+				"snip",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"match",
+				"Emmet: Match Pair (outward)"
+			],
+			[
+				"remove",
+				"Emmet: Remove Tag"
+			],
+			[
+				"wra",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"war",
+				"Snippet: Bootstrap warning button"
+			],
+			[
+				"matc",
+				"Emmet: Match Pair (inward)"
+			],
+			[
+				"comment",
+				"Emmet: Toggle Comment"
+			],
+			[
+				"matci",
+				"Emmet: Match Pair (outward)"
+			],
+			[
+				"remov",
+				"Emmet: Remove Tag"
+			],
+			[
+				"wr",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"remvoe",
+				"Emmet: Remove Tag"
+			],
+			[
+				"matchi",
+				"Emmet: Match Pair (outward)"
+			],
+			[
+				"matching",
+				"Emmet: Go to Matching Pair"
+			],
+			[
+				"matchin",
+				"Emmet: Go to Matching Pair"
+			],
+			[
+				"eidt",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"new t",
+				"Tasks: New document"
+			],
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"arc",
+				"Tasks: Archive"
+			],
+			[
+				"archive",
+				"Tasks: Archive"
+			],
+			[
+				"html",
+				"Set Syntax: HTML (Erlang)"
+			],
+			[
+				"susp",
+				"Snippet: shiny-suspendWhenHidden"
+			],
+			[
+				"edit sni",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"pair",
+				"Emmet: Match Pair (outward)"
+			],
+			[
+				"remo",
+				"Emmet: Remove Tag"
+			],
+			[
+				"split",
+				"Emmet: Split\\Join Tag"
+			],
+			[
+				"emmet",
+				"Emmet: Split\\Join Tag"
+			],
+			[
+				"exp",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"snipp",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"plaint",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"markd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"text",
+				"Text Pastry: Lines from clipboard"
+			],
+			[
+				"roxy",
+				"Snippet: ROxygenize generator"
+			],
+			[
+				"got",
+				"Emmet: Go to Matching Pair"
+			],
+			[
+				"edit",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"update",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"edit sn",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"make",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"butt",
+				"Snippet: shiny-action-button"
+			],
+			[
+				"emme",
+				"Emmet: Match Pair (inward)"
+			],
+			[
+				"emmett",
+				"Emmet: Match Pair (outward)"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"enhance",
+				"Set Syntax: Enhanced-R"
+			],
+			[
+				"jshi",
+				"JSHint"
+			],
+			[
+				"emm",
+				"Emmet: Evaluate Math Expression"
+			],
+			[
+				"edit ",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Shiny Button"
+			],
+			[
+				"isnta",
+				"Package Control: Install Package"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"snippet make",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"tag",
+				"Tag: Auto-Format Tags on Document"
+			],
+			[
+				"format",
+				"Format: Javascript"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"for",
+				"Format: Javascript"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"twitt",
+				"Snippet: Bootstrap warning button"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pretty",
+				"HTMLPrettify"
+			],
+			[
+				"pre",
+				"HTMLPrettify"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"repl r",
+				"SublimeREPL: R"
+			],
+			[
+				"repl node",
+				"SublimeREPL: Node"
+			],
+			[
+				"repl setting",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"package",
+				"Package Control: Discover Packages"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"indn",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"buiild",
+				"Build: Build"
+			],
+			[
+				"build",
+				"GoSublime: Run build command"
+			],
+			[
+				"clojure",
+				"SublimeREPL: Clojure"
+			],
+			[
+				"binding",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"cloju",
+				"Set Syntax: Clojure"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Add Channel"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"add ch",
+				"Package Control: Add Channel"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 51.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"// Characters that are considered to separate words – does not include periods.",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/zj/SkyScorer/Shiny/www/handsontable/0.10.0/jquery.handsontable.css",
+		"/Users/zj/SkyScorer/Shiny/www/js/shinyhandsontable.js",
+		"/Users/zj/SkyScorer/Shiny/www/handsontable/0.9.19/jquery.handsontable.full.js",
+		"/Users/zj/SkyScorer/Shiny/www/handsontable/0.10.0/jquery.handsontable.full.js",
+		"/Users/zj/SkyScorer/Shiny/www/handsontable/0.9.19/jquery.handsontable.js",
+		"/Users/zj/SkyScorer/Shiny/www/handsontable/0.10.0/jquery.handsontable.js",
+		"/Users/zj/SkyScorer/Shiny/projects/hello/output/model_auto.data",
+		"/Users/zj/SkyScorer/Shiny/www/typeahead/hogan.js",
+		"/Users/zj/SkyScorer/Scorecard Architect/Score.R",
+		"/Users/zj/SkyScorer/Shiny/server/good_bad.R",
+		"/Users/zj/SkyScorer/Shiny/server/Binning.r",
+		"/Users/zj/SkyScorer/Shiny/server/Model.r",
+		"/Users/zj/SkyScorer/shiny/server/woe creation.r",
+		"/Users/zj/SkyScorer/shiny/server/Importing Data.r",
+		"/Users/zj/SkyScorer/Shiny/global.R",
+		"/Users/zj/SkyScorer/Shiny/www/js/readiness-status.js",
+		"/Users/zj/SkyScorer/Shiny/shinyhandsontable/shinyhandsontable.R",
+		"/Users/zj/SkyScorer/Shiny/project0.todo",
+		"/Users/zj/SkyScorer/Scorecard Architect/csobject.R",
+		"/Users/zj/SkyScorer/shiny/server/Sampling.r",
+		"/Users/zj/SkyScorer/Shiny/www/js/save-tab.js",
+		"/Users/zj/SkyScorer/shiny/server/diagnostic.r",
+		"/Users/zj/SkyScorer/Scorecard Architect/bins.to.woe.R",
+		"/Users/zj/SkyScorer/Shiny/server/Var_Clustering.r",
+		"/Users/zj/SkyScorer/Shiny/www/js/textInput-typeahead.js",
+		"/Users/zj/SkyScorer/Scorecard Architect/Model Fit Run.R",
+		"/Users/zj/SkyScorer/ABBA/focus functions.r",
+		"/C/temp/var.R",
+		"/C/Users/ZhuoJia/Documents/GitHub/analytixware.github.com/CNAME",
+		"/C/Ruby/config.yml",
+		"/C/Users/ZhuoJia/Documents/GitHub/analytixware.github.com/index.html",
+		"/C/Users/ZhuoJia/Documents/GitHub/analytixware.github.com/Gemfile",
+		"/C/Users/ZhuoJia/Documents/GitHub/jquery-handsontable/dist_wc/README.md",
+		"/C/Users/ZhuoJia/Documents/GitHub/jquery-handsontable/dist/README.md",
+		"/C/Users/ZhuoJia/Documents/R/win-library/3.0/shiny/www/shared/hehe.js",
+		"/C/Users/ZhuoJia/Dropbox/AnalytixWare/R Code/Sublime Project.sublime-project",
+		"/C/Users/ZhuoJia/Documents/GitHub/analytixware.github.com/javascripts/main.js",
+		"/C/Users/ZhuoJia/Documents/GitHub/analytixware.github.com/params.json",
+		"/C/Users/ZhuoJia/AppData/Roaming/Sublime Text 3/Packages/User/shinynumericinput.sublime-snippet",
+		"/C/Users/ZhuoJia/AppData/Roaming/Sublime Text 3/Packages/User/shinydatatable.sublime-snippet",
+		"/C/Users/ZhuoJia/Dropbox/AnalytixWare/R Code/shiny/server/Clustering.r",
+		"/C/Users/ZhuoJia/Dropbox/AnalytixWare/R Code/Shiny/global.R",
+		"/C/Users/ZhuoJia/Dropbox/AnalytixWare/R Code/shiny/www/highcharts/js/highcharts.js",
+		"/C/Users/ZhuoJia/Dropbox/AnalytixWare/R Code/Shiny/server/Model.r",
+		"/C/Users/ZhuoJia/Dropbox/AnalytixWare/R Code/Shiny/www/js/shinyhandsontable.js",
+		"/C/Users/ZhuoJia/Dropbox/AnalytixWare/R Code/Shiny/www/js/minified/skyscorer.min.js",
+		"/C/Users/ZhuoJia/Dropbox/AnalytixWare/R Code/Shiny/server/Binning.r",
+		"/C/Users/ZhuoJia/Dropbox/AnalytixWare/R Code/Scorecard Architect/abba.it.r",
+		"/C/Users/ZhuoJia/Dropbox/AnalytixWare/R Code/Scorecard Architect/Model Fit Run.R",
+		"/C/Users/ZhuoJia/Dropbox/AnalytixWare/R Code/Scorecard Architect/model.fit.logistic.R",
+		"/C/Users/ZhuoJia/Dropbox/AnalytixWare/R Code/Shiny/CodeGraphviz/testing.R",
+		"/C/Users/ZhuoJia/Dropbox/AnalytixWare/R Code/Shiny/server/diagnostic.r",
+		"/C/Users/ZhuoJia/Dropbox/AnalytixWare/R Code/Shiny/server/Importing Data.r",
+		"/C/Users/ZhuoJia/Dropbox/AnalytixWare/R Code/Shiny/www/js/save-tab.js",
+		"/C/Users/ZhuoJia/Dropbox/AnalytixWare/R Code/Shiny/server/Sampling.r",
+		"/C/Users/ZhuoJia/Dropbox/AnalytixWare/R Code/Shiny/server/woe creation.r",
+		"/C/Users/ZhuoJia/Dropbox/AnalytixWare/R Code/Scorecard Architect/load.abba.format.r",
+		"/C/Users/ZhuoJia/Dropbox/AnalytixWare/R Code/Shiny/shinyhandsontable/shinyhandsontable.R",
+		"/C/Users/ZhuoJia/Dropbox/AnalytixWare/R Code/Scorecard Architect/csobject.R",
+		"/C/Users/ZhuoJia/Dropbox/AnalytixWare/R Code/Shiny/server/Clustering.r",
+		"/C/Users/ZhuoJia/Dropbox/AnalytixWare/R Code/Shiny/server.R",
+		"/C/Users/ZhuoJia/Dropbox/AnalytixWare/R Code/Shiny/project0.todo",
+		"/C/Users/ZhuoJia/Dropbox/AnalytixWare/R Code/Shiny/www/typeahead/example.css",
+		"/C/Users/ZhuoJia/Dropbox/AnalytixWare/R Code/Scorecard Architect/correlation.map.R",
+		"/C/Users/ZhuoJia/Documents/GitHub/ShinySky/inst/www/shinysky.min.js",
+		"/C/Users/ZhuoJia/Dropbox/AnalytixWare/R Code/Shiny/www/js/textInput-typeahead.js",
+		"/C/Users/ZhuoJia/Dropbox/AnalytixWare/R Code/Shiny/uglify.bat",
+		"/C/Users/ZhuoJia/Dropbox/AnalytixWare/R Code/shiny/www/js/minified/skyscorer.min.closure.js",
+		"/C/Users/ZhuoJia/Documents/GitHub/ShinySky/R/rQuery.R",
+		"/C/Users/ZhuoJia/Dropbox/AnalytixWare/R Code/.Rproj.user/99EC1781/sdb/s-5C843914/E591E20A",
+		"/C/Users/ZhuoJia/Dropbox/AnalytixWare/R Code/.Rproj.user/99EC1781/sdb/s-5C843914/9281CD84",
+		"/C/Users/ZhuoJia/Dropbox/AnalytixWare/R Code/.Rproj.user/99EC1781/sdb/s-5C843914/720D63B",
+		"/C/Users/ZhuoJia/Dropbox/AnalytixWare/R Code/.Rproj.user/99EC1781/sdb/s-5C843914/4121F90C",
+		"/C/Users/ZhuoJia/Dropbox/AnalytixWare/R Code/.Rhistory",
+		"/C/temp/sdt/www/js/DTbinding.js",
+		"/C/Users/ZhuoJia/Dropbox/AnalytixWare/R Code/Shiny/www/js/minified/skyscorer.min.closure.js",
+		"/C/Users/ZhuoJia/Dropbox/AnalytixWare/R Code/Shiny/www/js/minified/shinysky.min.js",
+		"/C/Users/ZhuoJia/Dropbox/AnalytixWare/R Code/Shiny/server/good_bad.R",
+		"/C/Users/ZhuoJia/Dropbox/AnalytixWare/R Code/SQlite/Convert CSV into SQLite.R",
+		"/C/Users/ZhuoJia/AppData/Roaming/Sublime Text 3/Packages/User/shinyalert.sublime-snippet",
+		"/C/Users/ZhuoJia/AppData/Roaming/Sublime Text 3/Packages/User/shinydropdown.sublime-snippet",
+		"/C/Users/ZhuoJia/AppData/Roaming/Sublime Text 3/Packages/PlainTasks/messages/Tutorial.todo",
+		"/C/Users/ZhuoJia/Dropbox/AnalytixWare/R Code/.Rproj.user/99EC1781/sdb/s-901FDF19/EC861436",
+		"/C/Users/ZhuoJia/Dropbox/AnalytixWare/R Code/.Rproj.user/99EC1781/sdb/s-901FDF19/E945F5B4",
+		"/C/Users/ZhuoJia/Dropbox/AnalytixWare/R Code/.Rproj.user/99EC1781/sdb/s-901FDF19/C789FA86",
+		"/C/Users/ZhuoJia/Dropbox/AnalytixWare/R Code/.Rproj.user/99EC1781/sdb/s-901FDF19/6B79DEE4",
+		"/C/Users/ZhuoJia/Dropbox/AnalytixWare/R Code/SQlite/Sample the WOE dataset.R",
+		"/C/Users/ZhuoJia/Dropbox/AnalytixWare/R Code/.Rproj.user/99EC1781/sdb/s-901FDF19/320FC347",
+		"/C/Users/ZhuoJia/Dropbox/AnalytixWare/R Code/.Rproj.user/99EC1781/sdb/s-901FDF19/2EB26E13",
+		"/C/Users/ZhuoJia/Dropbox/AnalytixWare/R Code/Shiny/www/index.html",
+		"/C/Users/ZhuoJia/Dropbox/AnalytixWare/R Code/Scorecard Architect/Clustering.R",
+		"/C/Users/ZhuoJia/AppData/Roaming/Sublime Text 3/Packages/User/shinytextinput.sublime-snippet",
+		"/C/Users/ZhuoJia/Dropbox/AnalytixWare/Data/Kaggle/Fixed/cs-training.csv",
+		"/C/Users/ZhuoJia/AppData/Roaming/Sublime Text 3/Packages/User/shinyplotoutput.sublime-snippet",
+		"/C/Users/ZhuoJia/Documents/GitHub/ShinySky/R/eventsButton.R",
+		"/C/Users/ZhuoJia/Documents/GitHub/ShinySky/inst/www/event-input.js",
+		"/C/Users/ZhuoJia/Documents/GitHub/ShinySky/inst/www/shinyalert.js",
+		"/C/Users/ZhuoJia/Documents/GitHub/ShinySky/README.md",
+		"/C/Users/ZhuoJia/Dropbox/AnalytixWare/R Code/ABBA/abba.identify_orig_bin_pos.r",
+		"/C/Users/ZhuoJia/Documents/debug.log",
+		"/C/Users/ZhuoJia/Desktop/temp.r",
+		"/C/Users/ZhuoJia/Desktop/hehe.r",
+		"/C/Users/ZhuoJia/Dropbox/AnalytixWare/R Code/Shiny/www/js/draw-flowchart.js",
+		"/C/Users/ZhuoJia/Documents/GitHub/ShinySky/R/action-button.R",
+		"/C/Users/ZhuoJia/Documents/GitHub/ShinySky/NAMESPACE",
+		"/C/Users/ZhuoJia/Documents/GitHub/ShinySky/R/shiny-alert.R",
+		"/C/Users/ZhuoJia/Documents/GitHub/ShinySky/R/zzz.R",
+		"/C/Users/ZhuoJia/Documents/GitHub/ShinySky/DESCRIPTION",
+		"/C/Users/ZhuoJia/Documents/GitHub/ShinySky/inst/examples/server.R",
+		"/C/Users/ZhuoJia/Documents/GitHub/ShinySky/inst/examples/ui.R",
+		"/C/Users/ZhuoJia/Dropbox/AnalytixWare/R Code/Shiny/www/highcharts/examples.R",
+		"/C/Users/ZhuoJia/Documents/GitHub/ShinySky/man/run.shinysky.example.Rd",
+		"/C/Users/ZhuoJia/Documents/GitHub/ShinySky/R/run-shiny-sky-example.R",
+		"/C/Users/ZhuoJia/Dropbox/AnalytixWare/R Code/Shiny/www/handsontable/0.10.0/README.md",
+		"/C/Users/ZhuoJia/Documents/GitHub/ShinySky/ui.R",
+		"/C/Users/ZhuoJia/Documents/GitHub/ShinySky/R/alert.R",
+		"/C/Users/ZhuoJia/Documents/GitHub/ShinySky/R/setup.R",
+		"/C/Users/ZhuoJia/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/ZhuoJia/AppData/Roaming/Sublime Text 3/Packages/User/roxy.sublime-snippet",
+		"/C/Users/ZhuoJia/Documents/GitHub/ShinySky/inst/www/shinymessenger.js",
+		"/C/Users/ZhuoJia/AppData/Roaming/Sublime Text 3/Packages/User/Shiny-sublime-snippet/shiny-actionButton.sublime-snippet",
+		"/C/Users/ZhuoJia/AppData/Roaming/Sublime Text 3/Packages/User/Shiny-sublime-snippet/shiny-alert.sublime-snippet",
+		"/C/Users/ZhuoJia/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/ZhuoJia/AppData/Roaming/Sublime Text 3/Packages/User/Shiny-sublime-snippet/shiny-section.sublime-snippet",
+		"/C/Users/ZhuoJia/AppData/Roaming/Sublime Text 3/Packages/User/Shiny-sublime-snippet/shiny-typeahead.sublime-snippet",
+		"/C/Users/ZhuoJia/Dropbox/AnalytixWare/R Code/README.md",
+		"/C/Users/ZhuoJia/Dropbox/AnalytixWare/R Code/Shiny/www/js/google-analytics.js",
+		"/C/Users/ZhuoJia/Dropbox/AnalytixWare/R Code/Shiny/www/js/user-voice.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"",
+			"C:\\Users\\ZhuoJia\\Dropbox\\AnalytixWare\\R Code\\",
+			"C:\\Users\\ZhuoJia\\Dropbox\\AnalytixWare\\R Code\\shiny",
+			"C:\\Users\\ZhuoJia\\Dropbox\\AnalytixWare\\R Code\\",
+			"C:\\Users\\ZhuoJia\\Dropbox\\AnalytixWare\\R Code\\shiny",
+			"C:\\Users\\ZhuoJia\\Dropbox\\AnalytixWare\\R Code\\",
+			"C:\\Users\\ZhuoJia\\Dropbox\\AnalytixWare\\R Code\\Shiny",
+			"C:\\Users\\ZhuoJia\\Dropbox\\AnalytixWare\\R Code\\",
+			"C:\\Users\\ZhuoJia\\Dropbox\\AnalytixWare\\R Code\\Shiny",
+			"C:\\Users\\ZhuoJia\\Dropbox\\AnalytixWare\\R Code\\",
+			"C:\\Users\\ZhuoJia\\Dropbox\\AnalytixWare\\R Code\\shiny",
+			"C:\\Users\\ZhuoJia\\Dropbox\\AnalytixWare\\R Code",
+			"C:\\Users\\ZhuoJia\\Dropbox\\AnalytixWare\\",
+			"C:\\Users\\ZhuoJia\\Dropbox\\AnalytixWare\\R Code\\",
+			"C:\\Users\\ZhuoJia\\Dropbox\\AnalytixWare\\R Code\\Shiny\\",
+			"C:\\Users\\ZhuoJia\\Dropbox\\AnalytixWare\\R Code\\Shiny\\server\\",
+			"C:\\Users\\ZhuoJia\\Dropbox\\AnalytixWare\\R Code\\Shiny\\",
+			"C:\\Users\\ZhuoJia\\Dropbox\\AnalytixWare\\R Code\\Shiny\\server",
+			"C:\\Users\\ZhuoJia\\Dropbox\\AnalytixWare\\R Code\\Shiny",
+			"C:\\Users\\ZhuoJia\\Dropbox\\AnalytixWare\\R Code\\Shiny\\www",
+			"C:\\Users\\ZhuoJia\\Documents\\AnalytixWare\\Project0\\ABBA,C:\\Users\\ZhuoJia\\Documents\\AnalytixWare\\Project0\\Scorecard Architect",
+			"C:\\Users\\ZhuoJia\\Documents\\AnalytixWare\\Project0\\ABBA"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"See this helps, I have success using this approach for myself:\n\nmake your datasetInputPre into a reactive instead then call datasetInputPre in datasetInputSecond e.g\n\n datasetInputPre <- reactive({\n       input$myDataset\n      (Statements to create varChoices)\n      updateSelectInput(session, \"myChoices\", \"My Label\", c(\"\", myChoices), selected=\"\") \n       (Additional statements)\n    }, priority=10)\n\nSecond\n    datasetInputSecond <- observe({\n       datasetInputPre()\n       input$myDataset\n\n      STATEMENTS TO HANDLE NULL AND \"\" CASES FOR input$myvar \n      chosen<-input$myChoices\n    })",
+			"row",
+			"alert",
+			"saveBinningButton",
+			"handsontable",
+			"filehead",
+			"browser()",
+			"({\n",
+			"External",
+			"external",
+			"browser()",
+			"bad_outcome.name",
+			"cutree",
+			"cuttree",
+			"fit.bigglm.abba.names",
+			"bad_outcome",
+			"<link href=\"handsontable/0.9.19/jquery.handsontable.full.css\" rel=\"stylesheet\"/>\n<script src=\"handsontable//0.9.19/jquery.handsontable.full.js\"></script>",
+			"data_tab",
+			"numeric",
+			"good/bad",
+			"initial",
+			"binning_results",
+			"potential_good_bad_var_profile_tbl",
+			"create_project_btn",
+			"clearAllData",
+			"create_project_btn",
+			"import_data_finished",
+			"importDataButton",
+			"input$importDataButton",
+			"modify_model_finished",
+			"buildMoreModelButton",
+			"model_table",
+			"model_coef_df",
+			"model_coef_df_manual",
+			"model_table",
+			"clustering",
+			"var clustering",
+			"var cluster",
+			"var clust",
+			"woe creation",
+			"showClustersVarButton",
+			"gini <-",
+			"gini",
+			"save(",
+			"gini",
+			"gini<",
+			"gini <-",
+			"save(",
+			"the_model <-",
+			"the_model",
+			"the_model()",
+			"gini",
+			"input$n",
+			"bad_outcome.name",
+			"sendcustom",
+			"potential_good_bad_var_profile_tbl",
+			"good_bad",
+			"()))",
+			".*\\n.*\\n.*search_string.*\\n.*\\n.*",
+			"^(.*)$",
+			"clustering",
+			"var clustering",
+			"sendcustom",
+			"sampling_ready",
+			"sendcustom",
+			"sendcustomer",
+			"<span class=\"badge badge-info\">&#10145</span>",
+			"container well span2",
+			"prisonbar",
+			"refresh_good_bad_var_tbl",
+			"\">\n",
+			"clustering_summary",
+			"clustering",
+			"num_clusters",
+			"clustering",
+			"bad_outcome.name",
+			"development",
+			"alert",
+			"variables allowed",
+			"viewingModel",
+			"buildMoreModelButton",
+			"updateSelectInput(",
+			"  ",
+			"Holdout",
+			"holdout",
+			"buildModelButton",
+			"samplingMethod",
+			"sampleBtn",
+			"console.log(",
+			"select_data_external_score",
+			"updateselectinput",
+			"importDataButton",
+			"ssobj() == \"empty\"",
+			"folder_select",
+			"  $(\"#",
+			"scorecard_table",
+			"choose_bin",
+			"binningButton",
+			"importDataButton",
+			"create_project_btn",
+			"ss$output.path",
+			"projects()",
+			"create_project_btn",
+			"input$dataset",
+			"browser()",
+			"textInput",
+			"typeahead",
+			"select_good_bad_var",
+			"potential_good_bad_var_profile_tbl",
+			"select_good_bad_var",
+			"Imp",
+			"ssobj()$getRaw[input$select_g",
+			"browser()",
+			"ssobj()$newConn",
+			"ssobj <-",
+			"ssobj()$newConn",
+			"update input$select_good_bad_var",
+			"if(is.null(ssobj())) return()",
+			"if(is.null(ssobj()) return()",
+			"ssobj()$newConn",
+			"ssobj()$",
+			"ssobj()$tbl_info_data",
+			"<script ",
+			"<script",
+			"<script>",
+			"\"empty\"",
+			"ssobj()",
+			"\"empty\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"External",
+			"external",
+			"identical(ssobj(),\"empty\")",
+			"",
+			"if(is.null(ssobj())) return(); if(ssobj() == \"empty\") return();",
+			"is.null(ssobj())",
+			"",
+			"ssobj() == \"empty\"",
+			"ssobj()$",
+			"ssobj",
+			"showshinyalert",
+			"typeahead2",
+			"span",
+			"col-md-",
+			"row",
+			"container",
+			"",
+			"\\\\"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o://C:\\Users\\ZhuoJia\\AppData\\Roaming\\Sublime Text 3\\Packages\\GoSublime":
+	{
+		"height": 100.0
+	},
+	"output.GoSublime-main-output":
+	{
+		"height": 25.0
+	},
+	"output.MarGo-output":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 135.0
+	},
+	"project": "skyscorer.com.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"ser",
+				"Shiny/server.R"
+			],
+			[
+				"server",
+				"Shiny/server.R"
+			],
+			[
+				"inde",
+				"Shiny/www/index.html"
+			],
+			[
+				"hands.js",
+				"Shiny/www/js/shinyhandsontable.js"
+			],
+			[
+				"binn",
+				"Shiny/server/Binning.r"
+			],
+			[
+				"handson.r",
+				"Shiny/shinyhandsontable/shinyhandsontable.R"
+			],
+			[
+				"model",
+				"Shiny/server/Model.r"
+			],
+			[
+				"in",
+				"Shiny/www/index.html"
+			],
+			[
+				"d",
+				"Shiny/server/diagnostic.r"
+			],
+			[
+				"di",
+				"Shiny/server/diagnostic.r"
+			],
+			[
+				"dia",
+				"Shiny/server/diagnostic.r"
+			],
+			[
+				"fit",
+				"Scorecard Architect/model.fit.logistic.R"
+			],
+			[
+				"bin",
+				"Shiny/server/Binning.r"
+			],
+			[
+				"cs",
+				"Scorecard Architect\\csobject.R"
+			],
+			[
+				"",
+				"C:\\Users\\ZhuoJia\\Documents\\GitHub\\analytixware.github.com\\index.html"
+			],
+			[
+				"import",
+				"Shiny\\server\\Importing Data.r"
+			],
+			[
+				"mode",
+				"Shiny\\server\\Model.r"
+			],
+			[
+				"good",
+				"Shiny\\server\\good_bad.R"
+			],
+			[
+				"w",
+				"Shiny\\server\\woe creation.r"
+			],
+			[
+				"var",
+				"Shiny\\server\\Var_Clustering.r"
+			],
+			[
+				"woe",
+				"Shiny\\server\\woe creation.r"
+			],
+			[
+				"i",
+				"Shiny\\server\\Importing Data.r"
+			],
+			[
+				"handsontabl.r",
+				"Shiny\\shinyhandsontable\\shinyhandsontable.R"
+			],
+			[
+				"mode.",
+				"Shiny\\server\\Model.r"
+			],
+			[
+				"varclust",
+				"Shiny\\server\\Var_Clustering.r"
+			],
+			[
+				"diag",
+				"Shiny\\server\\diagnostic.r"
+			],
+			[
+				"weo",
+				"Shiny\\server\\woe creation.r"
+			],
+			[
+				"g",
+				"Shiny\\server\\good_bad.R"
+			],
+			[
+				"bad",
+				"Shiny\\server\\good_bad.R"
+			],
+			[
+				"goo",
+				"Shiny\\server\\good_bad.R"
+			],
+			[
+				"shin.js",
+				"Shiny\\www\\js\\shinyhandsontable.js"
+			],
+			[
+				"hand.js",
+				"Shiny\\www\\js\\shinyhandsontable.js"
+			],
+			[
+				"model.",
+				"Shiny\\server\\Model.r"
+			],
+			[
+				"serv",
+				"Shiny\\server.R"
+			],
+			[
+				"wo",
+				"Shiny\\server\\woe creation.r"
+			],
+			[
+				"todo",
+				"Shiny\\project0.todo"
+			],
+			[
+				"impo",
+				"Shiny\\server\\Importing Data.r"
+			],
+			[
+				"csob",
+				"Scorecard Architect\\csobject.R"
+			],
+			[
+				"save",
+				"Shiny\\www\\js\\save-tab.js"
+			],
+			[
+				"sav",
+				"Shiny\\server\\Var_Clustering.r"
+			],
+			[
+				"v",
+				"Shiny\\server\\Var_Clustering.r"
+			],
+			[
+				"clust",
+				"Shiny\\server\\Clustering.r"
+			],
+			[
+				"clu",
+				"Shiny\\server\\Clustering.r"
+			],
+			[
+				"global",
+				"Shiny\\global.R"
+			],
+			[
+				"sampling",
+				"Shiny\\server\\Sampling.r"
+			],
+			[
+				"imp",
+				"Shiny\\server\\Importing Data.r"
+			],
+			[
+				"iporrt",
+				"Shiny\\server\\Importing Data.r"
+			],
+			[
+				"save.js",
+				"Shiny\\www\\js\\save-tab.js"
+			],
+			[
+				"model.r",
+				"Shiny\\server\\Model.r"
+			],
+			[
+				"bining.r",
+				"Shiny\\server\\Binning.r"
+			],
+			[
+				"bin.r",
+				"Scorecard Architect\\bins.to.woe.R"
+			],
+			[
+				"type",
+				"Shiny\\www\\js\\textInput-typeahead.js"
+			],
+			[
+				"sky",
+				"Shiny\\www\\js\\minified\\skyscorer.min.js"
+			],
+			[
+				"shi.mi",
+				"ShinySky\\inst\\www\\shinysky.min.js"
+			],
+			[
+				"tyeph",
+				"Shiny\\www\\js\\textInput-typeahead.js"
+			],
+			[
+				"shinhands",
+				"Shiny\\www\\js\\shinyhandsontable.js"
+			],
+			[
+				"shiny.js",
+				"Shiny\\www\\js\\shinyhandsontable.js"
+			],
+			[
+				".bat",
+				"Shiny\\uglify.bat"
+			],
+			[
+				"shinysky.js",
+				"ShinySky\\inst\\www\\shinysky.min.js"
+			],
+			[
+				"shiny",
+				"Shiny\\www\\js\\shinyhandsontable.js"
+			],
+			[
+				"impor",
+				"Shiny\\server\\Importing Data.r"
+			],
+			[
+				"ssobj",
+				"Scorecard Architect\\csobject.R"
+			],
+			[
+				"cor",
+				"Scorecard Architect\\correlation.map.R"
+			],
+			[
+				"example",
+				"Shiny\\www\\typeahead\\example.css"
+			],
+			[
+				"save-",
+				"Shiny\\www\\js\\save-tab.js"
+			],
+			[
+				"server.r",
+				"Shiny\\server.R"
+			],
+			[
+				"csv.",
+				"SQlite\\Convert CSV into SQLite.R"
+			],
+			[
+				"sampl",
+				"Shiny\\server\\Sampling.r"
+			],
+			[
+				"woe.r",
+				"Shiny\\server\\woe creation.r"
+			],
+			[
+				"serve",
+				"Shiny\\server.R"
+			],
+			[
+				"index",
+				"Shiny\\www\\index.html"
+			],
+			[
+				"cluster",
+				"Shiny\\server\\Clustering.r"
+			],
+			[
+				"shiny.r",
+				"Shiny\\shinyhandsontable\\shinyhandsontable.R"
+			],
+			[
+				"seqlit",
+				"SQlite\\Convert CSV into SQLite.R"
+			],
+			[
+				"binning",
+				"Shiny\\server\\Binning.r"
+			],
+			[
+				"fit.",
+				"Scorecard Architect\\model.fit.logistic.R"
+			],
+			[
+				"cls",
+				"Scorecard Architect\\Clustering.R"
+			],
+			[
+				"sa",
+				"Shiny\\server\\Sampling.r"
+			],
+			[
+				"hand.r",
+				"Shiny\\shinyhandsontable\\shinyhandsontable.R"
+			],
+			[
+				"csobje",
+				"Scorecard Architect\\csobject.R"
+			],
+			[
+				"good_",
+				"Shiny\\server\\good_bad.R"
+			],
+			[
+				"mode.r",
+				"Scorecard Architect\\model.fit.logistic.R"
+			],
+			[
+				"shinal.js",
+				"ShinySky\\inst\\www\\shinyalert.js"
+			],
+			[
+				"samplin",
+				"Shiny\\server\\Sampling.r"
+			],
+			[
+				".md",
+				"ShinySky\\README.md"
+			],
+			[
+				"eventinpu",
+				"ShinySky\\inst\\www\\event-input.js"
+			],
+			[
+				"shinyal.js",
+				"ShinySky\\inst\\www\\shinyalert.js"
+			],
+			[
+				"event",
+				"ShinySky\\R\\eventsButton.R"
+			],
+			[
+				"act",
+				"ShinySky\\R\\action-button.R"
+			],
+			[
+				"action",
+				"ShinySky\\R\\action-button.R"
+			],
+			[
+				"exa",
+				"ShinySky\\R\\run-shiny-sky-example.R"
+			],
+			[
+				"examp",
+				"ShinySky\\man\\run.shinysky.example.Rd"
+			],
+			[
+				"exampe",
+				"ShinySky\\inst\\examples\\server.R"
+			],
+			[
+				"read",
+				"ShinySky\\README.md"
+			],
+			[
+				"alert.js",
+				"ShinySky\\inst\\www\\shinyalert.js"
+			],
+			[
+				"ui.r",
+				"ShinySky\\ui.R"
+			],
+			[
+				"descrip",
+				"ShinySky\\DESCRIPTION"
+			],
+			[
+				"shinyalert",
+				"ShinySky\\R\\shiny-alert.R"
+			],
+			[
+				"names",
+				"ShinySky\\NAMESPACE"
+			],
+			[
+				"dra",
+				"Shiny\\www\\js\\draw-flowchart.js"
+			],
+			[
+				"hands.r",
+				"Shiny\\shinyhandsontable\\shinyhandsontable.R"
+			],
+			[
+				"csobj",
+				"Scorecard Architect\\csobject.R"
+			],
+			[
+				"draw",
+				"Shiny\\www\\js\\draw-flowchart.js"
+			],
+			[
+				"ind",
+				"Shiny\\www\\index.html"
+			],
+			[
+				"shinta.js",
+				"Shiny\\www\\js\\shinyhandsontable.js"
+			],
+			[
+				"god",
+				"Shiny\\server\\good_bad.R"
+			],
+			[
+				"alert.s",
+				"ShinySky\\inst\\www\\shinyalert.js"
+			],
+			[
+				"binning.r",
+				"Shiny\\server\\Binning.r"
+			],
+			[
+				"shinyalert.r",
+				"ShinySky\\R\\alert.R"
+			],
+			[
+				"shinysky",
+				"ShinySky\\ShinySky.Rproj"
+			],
+			[
+				"shinyhan",
+				"Shiny\\shinyhandsontable\\shinyhandsontable.R"
+			],
+			[
+				"alert-ha",
+				"ShinySky\\inst\\www\\alert-handler.js"
+			],
+			[
+				"handsonta.r",
+				"Shiny\\shinyhandsontable\\shinyhandsontable.R"
+			],
+			[
+				"exam",
+				"Shiny\\www\\typeahead\\example.css"
+			],
+			[
+				"fi",
+				"Scorecard Architect\\model.fit.logistic.R"
+			],
+			[
+				"typea",
+				"Shiny\\www\\typeahead\\typeahead.min.noconflict.js"
+			],
+			[
+				"typ",
+				"Shiny\\www\\typeahead\\typeahead.min.js"
+			],
+			[
+				"jshand",
+				"Shiny\\www\\js\\shinyhandsontable.js"
+			],
+			[
+				"score",
+				"Scorecard Architect\\Score.R"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\ZhuoJia\\Dropbox\\AnalytixWare\\R Code\\Shiny\\shiny.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 35.0,
+		"selected_items":
+		[
+			[
+				" fit.bigglm.abba.names",
+				"fit.bigglm.abba.names"
+			],
+			[
+				"fit.the",
+				"fit.the.model"
+			],
+			[
+				"csv",
+				"csv.to.sqlite"
+			],
+			[
+				"read.for",
+				"read.format"
+			],
+			[
+				"fit.",
+				"fit.the.model"
+			],
+			[
+				"csv.to",
+				"csv.to.sqlite"
+			],
+			[
+				"gini",
+				"gini"
+			],
+			[
+				"showShiny",
+				"showshinyalert"
+			],
+			[
+				"rad.form",
+				"read.format.tbl"
+			],
+			[
+				"read.",
+				"read.format.tbl"
+			],
+			[
+				"get.",
+				"get.abba.var"
+			],
+			[
+				"fit.bigglm.abba.names",
+				"fit.bigglm.abba.names"
+			]
+		],
+		"width": 544.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 172.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
