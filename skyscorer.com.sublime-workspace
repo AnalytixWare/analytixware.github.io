@@ -556,6 +556,10 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/Users/zj/analytixware.github.io"
+	],
 	"file_history":
 	[
 		"/Users/zj/analytixware.github.io/trial.html",
@@ -1530,6 +1534,7 @@
 		],
 		"width": 544.0
 	},
+	"selected_group": 0,
 	"settings":
 	{
 	},
